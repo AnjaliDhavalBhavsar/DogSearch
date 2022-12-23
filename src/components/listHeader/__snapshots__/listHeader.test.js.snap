@@ -1,0 +1,103 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`listHeader snapshot 1`] = `
+Array [
+  <div
+    className="searchContainer"
+  >
+    <div
+      className="searchText"
+    >
+      Search
+    </div>
+    <input
+      aria-label="SearchInput"
+      className="searchInput"
+      onChange={[Function]}
+      placeholder="Search for dog "
+      type="text"
+    />
+  </div>,
+  <div
+    className="container"
+  >
+    <div>
+      <div>
+        <button
+          className="headerButton"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundImage": undefined,
+              "width": "10%",
+            }
+          }
+        >
+          Image
+        </button>
+        <button
+          className="headerButton"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundImage": "url(iconsUpDown.png)",
+              "width": "22.5%",
+            }
+          }
+        >
+          Name
+        </button>
+        <button
+          className="headerButton"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundImage": "url(iconsUpDown.png)",
+              "width": "22.5%",
+            }
+          }
+        >
+          Height
+        </button>
+        <button
+          className="headerButton"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundImage": "url(iconsUpDown.png)",
+              "width": "22.5%",
+            }
+          }
+        >
+          LifeSpan
+        </button>
+        <button
+          className="headerButton"
+          onClick={[Function]}
+          style={
+            Object {
+              "backgroundImage": false,
+              "width": "22.5%",
+            }
+          }
+        >
+          Breed Group
+        </button>
+      </div>
+      <div
+        className="containerNoData"
+      >
+        <img
+          alt="No Data"
+          height="400"
+          src="noData.png"
+          width="400"
+        />
+        <div>
+          No Data Available
+        </div>
+      </div>
+    </div>
+  </div>,
+]
+`;

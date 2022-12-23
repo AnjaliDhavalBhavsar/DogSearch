@@ -1,0 +1,15 @@
+.imageClass {
+  padding: 10px;
+}
+.imageLoader {
+  display: flex;
+  width: 100px;
+  height: 100px;
+
+  align-items: center;
+  z-index: 111111;
+  justify-content: center;
+  background: lightslategrey;
+  opacity: 0.8;
+  padding: 10px;
+}

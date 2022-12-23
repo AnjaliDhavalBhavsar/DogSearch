@@ -1,0 +1,36 @@
+.detailContainer {
+  position: relative;
+  border: 1px solid darkgrey;
+  width: 100%;
+  padding: 5px;
+  margin: 2px;
+  display: flex;
+}
+
+.column {
+  min-width: 22%;
+  padding-left: 10px;
+  align-items: center;
+}
+.flex {
+  display: flex;
+  padding-left: 0px;
+  justify-content: center;
+}
+.imageContainer {
+  width: 10%;
+}
+
+.name {
+  padding: 5px 10px;
+}
+.description {
+  padding: 5px 10px;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  height: 28px;
+  overflow: hidden;
+}
+.bold {
+  font-weight: bold;
+}

@@ -1,0 +1,79 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DogList snapshot 1`] = `
+<div
+  className="detailContainer"
+>
+  <div
+    className="imageContainer"
+  >
+    <img
+      alt="NoImage"
+      className="imageClass"
+      height="100px"
+      src="noImage.png"
+      width="100px"
+    />
+  </div>
+  <div
+    className="column"
+  >
+    <div
+      className="name"
+    >
+      <span
+        className="bold"
+      >
+        Name:
+      </span>
+       
+      Alaskan Malamute
+    </div>
+    <div
+      className="name"
+    >
+      <span
+        className="bold"
+      >
+        Temperament:
+      </span>
+       
+      Friendly, Affectionate, Devoted, Loyal, Dignified, Playful
+    </div>
+  </div>
+  <div
+    className="column"
+  >
+    <div
+      className="name"
+    >
+      <span
+        className="bold"
+      >
+        Metric: 
+      </span>
+      58 - 64
+    </div>
+    <div
+      className="name"
+    >
+      <span
+        className="bold"
+      >
+        Imperial: 
+      </span>
+      23 - 25
+    </div>
+  </div>
+  <div
+    className="column flex"
+  >
+    12 - 15 years
+  </div>
+  <div
+    className="column flex"
+  >
+    Working
+  </div>
+</div>
+`;

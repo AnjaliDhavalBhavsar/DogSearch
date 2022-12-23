@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`search snapshot testing 1`] = `
+<div
+  className="searchContainer"
+>
+  <div
+    className="searchText"
+  >
+    Search
+  </div>
+  <input
+    aria-label="SearchInput"
+    className="searchInput"
+    onChange={[Function]}
+    placeholder="Search for dog "
+    type="text"
+  />
+</div>
+`;

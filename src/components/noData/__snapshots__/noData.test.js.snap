@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`NoDataAvailablesnapshot testing 1`] = `
+<div
+  className="containerNoData"
+>
+  <img
+    alt="No Data"
+    height="400"
+    src="noData.png"
+    width="400"
+  />
+  <div>
+    No Data Available
+  </div>
+</div>
+`;
